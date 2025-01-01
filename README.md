@@ -45,13 +45,6 @@ Welcome to the **Colour Game** repository! This is a fun and interactive game de
 4. Earn points for every correct match. The game becomes more challenging as you progress.
 5. Aim for the highest score!
 
----
-
-## Screenshots
-
-(Include relevant screenshots here to showcase the game.)
-
----
 
 ## Contribution
 
